@@ -80,6 +80,7 @@ body {
 }
 
 .lock body {
+    overflow: hidden;
     touch-action: none;
 }
 
@@ -372,7 +373,6 @@ body {
     .menu-open .header .menu__body {
         background: #303345;
         top: 0%;
-        overflow: scroll;
         z-index: 10;
     }
 
