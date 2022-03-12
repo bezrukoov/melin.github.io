@@ -121,7 +121,7 @@ body {
   [class*=__container] {
     max-width: none;
     padding: 0px 30px;
-    padding: 1 12.5rem;
+   
   }
 }
 
@@ -347,7 +347,7 @@ body {
   }
 }
 .header-content {
-  background-image: url(../img/bg-header.png);
+  background-image: url(../img/bg-header.webp);
   background-size: cover;
   height: 30vh;
   display: flex;
