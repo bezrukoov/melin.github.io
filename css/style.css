@@ -433,7 +433,8 @@ body {
   }
 }
 .dishes__block a img {
-  width: 100%;
+  width: 161px;
+  height:131px;
   margin-bottom: 15px;
   transition: all 0.4s ease;
 }
